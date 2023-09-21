@@ -1,5 +1,5 @@
 # Millenium-stealer
-A new windows stealer, written fully in python. Logs will be sent to telegram via your telegram bot ✨Only for 10$ in 2023✨. Please contact me by telegram: **@shinyenigma**
+A new windows stealer, written fully in python. Logs will be sent to telegram via your telegram bot ✨Only for 10$ in 2023✨. Please contact me by telegram: <em>**@shinyenigma**</em>
 
 ⭐️ Common :
 🔹 Code obsfucation
