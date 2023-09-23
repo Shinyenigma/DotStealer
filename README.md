@@ -1,16 +1,17 @@
 # Millenium-stealer
 A new windows stealer, written fully in python. Logs will be sent to telegram via your telegram bot ✨Only for 10$ in 2023✨. Please contact me by telegram: <em>**@shinyenigma**</em>
 
-⭐️ Common :
-🔹 Code obsfucation
-🔹 Anti doble-launch
-🔹 Anti VM
-🔹 Anti-debug
-🔹 DEliting all traces
-🔹 Single exe without dependences
+<br />⭐️ Common :
+<br />🔹 Code obsfucation
+<br />🔹 Anti doble-launch
+<br />🔹 Anti VM
+<br />🔹 Anti-debug
+<br />🔹 DEliting all traces
+<br />🔹 Single exe without dependences
+<br />🔹 Working on Windows 32/64 bit
 
-⭐️ Possibilities :
-🔹Screenshot grabbing
+<br />⭐️ Possibilities :
+<br />🔹Screenshot grabbing
 🔹Computer info grabbing (CPU, GPU, RAM, Country, city, IP, Mac Address etc)
 🔹Discord token & token information grabbing (phone number, email, token, username, nitro etc)
 🔹Telegram data grabbing grabbing
