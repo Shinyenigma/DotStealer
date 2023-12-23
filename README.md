@@ -9,7 +9,7 @@ A new windows stealer, logs are sentt to telegram via telegram bot, no dedicated
 <br />🔹 Anti-debug
 <br />🔹 Full self-deleting after successful launch
 <br />🔹 Single exe without dependences
-<br />🔹 Working on Windows 32/64 bit
+<br />🔹 Working on Windows 7 and higher, 32/64 bit
 
 
 <br />⭐️ Grabbing:
