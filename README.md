@@ -28,7 +28,8 @@ If you have any questions, feel free to ask
 
 ![image](https://github.com/Shinyenigma/DotStealer/assets/113016710/a248712b-a161-44af-af59-f480fbff298d)
 
-![image](https://github.com/Shinyenigma/DotStealer/assets/113016710/4a84970e-b489-4f95-b41a-9f80f4275372)
+![image](https://github.com/Shinyenigma/DotStealer/assets/113016710/ed1c3d4b-b473-4498-8c94-a48784f2716e)
+
 
 
 
