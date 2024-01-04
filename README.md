@@ -1,5 +1,5 @@
 # DotStealer - easy to set-up and secure to use stealer
-A new windows stealer, logs are sentt to telegram via telegram bot, no dedicated server needed ✨The price in 2023 is 25$✨. Contact me by telegram to buy: <em>**@shinyenigma**</em>
+A new windows stealer, logs are sentt to telegram via telegram bot, no dedicated server needed ✨The price in 2024 is 30$✨. Contact me by telegram to buy: <em>**@shinyenigma**</em>
 ## Features
 <br />⭐️ Common:
 <br />🔹 One-file builder with simple user-friendly interface
